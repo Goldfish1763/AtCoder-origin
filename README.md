@@ -1,2 +1,2 @@
 # AtCoder
-writeup for AtCoder
+Writeup for AtCoder
